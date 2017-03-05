@@ -1,0 +1,22 @@
+.blue {
+    width:30px;
+    height:30px;
+    display:inline-block;
+    background-color: blue;
+    
+}
+
+.white {
+    width:30px;
+    height:30px;
+    display:inline-block;
+    background-color:white;
+    
+}
+
+.border {
+    border: 5px solid black;
+    height:290px;
+    width:248px;
+    
+}
